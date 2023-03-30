@@ -1,0 +1,89 @@
+.nettech-call{
+    position: relative;
+    left: -15%;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+.nettech-mail{
+    position: relative;
+    left: -32%;
+    font-family: 'Roboto Condensed', sans-serif;
+
+    font-weight: bold;
+    font-size: 16px;
+}
+.nettech-location{
+    position: relative;
+    left: -19%;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+    font-weight: bold;
+    font-size: 16px;
+}
+.nettech-call-icon{
+    position: absolute;
+    font-size: 33px;
+    left: 57%;
+    top: 25%;
+    color: #ff3115;
+    
+}
+
+.nettech-mail-icon{
+    position: absolute;
+    font-size: 43px;
+    left: 51%;
+    
+    color: #ff3115;
+}
+.nettech-location-icon{
+    position: absolute;
+    font-size: 38px;
+    color: #ff3115;
+    left: 53%;
+    top: 15%;
+}
+.doller-sign{
+    position: absolute;
+    top: 39%;
+    left: 32%;
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+#owl-demo .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.nettech-col-call{
+    position: relative;
+    left: 6%;
+}
+.nettech-col-mail{
+    position: relative;
+    left: 7%;
+}
+.h6{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+    color: rgb(34, 34, 34);
+}
+.social-icon{
+    color: gray;
+}
+
+.color{
+    color: #ff3115;
+}
+.bg-transparent{
+  border: 2px solid black;
+}
+.acheivement-box{
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    margin-bottom: 30px;
+    text-align: center;
+    padding: 23px;
+    
+}

@@ -1,0 +1,21 @@
+.bg-img{
+    background-image: url("/image/img1.jpg");
+    color: rgb(233, 46, 46);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center top;
+
+}
+.video{
+    padding: 120px;
+    font-size: 50px;
+    text-align: center;
+    position: relative;
+}
+
+.bg-img-acheivement{
+    background-image: url("/image/counter-bg.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center top;
+}
